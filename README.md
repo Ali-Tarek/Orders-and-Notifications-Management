@@ -22,9 +22,6 @@
 - [Project Structure](#project-structure)
 - [Testing](#testing)
 - [Contributing](#contributing)
-- [Security](#security)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
@@ -160,35 +157,3 @@ Contributions are welcome! Please follow these steps:
 Please ensure your code follows best practices and includes appropriate tests and documentation.
 
 ---
-
-## Security
-
-- Validate all user inputs to prevent injection attacks.
-- Use secure authentication and authorization mechanisms if exposing the API publicly.
-- Keep dependencies up to date to avoid vulnerabilities.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For questions, issues, or feature requests, please open an issue on the [GitHub repository](https://github.com/Ali-Tarek/Orders-and-Notifications-Management).
-
----
-
-**References:**
-- [Ali-Tarek/Orders-and-Notifications-Management GitHub Repository](https://github.com/Ali-Tarek/Orders-and-Notifications-Management)
-
----
-
-If you have access to the actual codebase, you can further enhance this README by adding:
-- Specific API request/response examples
-- Database schema diagrams
-- Sequence diagrams for order/notification flows
-- Details about authentication/authorization (if implemented)
-- Deployment instructions for specific environments
